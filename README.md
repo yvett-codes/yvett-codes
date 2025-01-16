@@ -1,7 +1,7 @@
 ![GitHub Header](https://github.com/user-attachments/assets/5e7da0dd-2cc4-4d75-b38d-ff6d391350d4)
 # **🌼 Hi, I'm Yvett!**
 
-#### `“In action breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy."` *- Dale Carnegie*
+#### `“Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy."` *- Dale Carnegie*
 
 👩🏻‍💻 My name is Yvett. I’m a Software Developer who is determined, eager to learn, and excited to bring her ideas to life! I’m working hard to solidify my foundational skills and craft meaningful tech- building the momentum to think and work like a true engineer!
 
