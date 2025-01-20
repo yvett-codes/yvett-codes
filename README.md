@@ -1,4 +1,4 @@
-![GitHub Header](https://github.com/user-attachments/assets/5e7da0dd-2cc4-4d75-b38d-ff6d391350d4)
+![GitHubHeader1](https://github.com/user-attachments/assets/6874115e-63a3-460a-8e8c-933204907852)
 # **🌼 Hi, I'm Yvett!**
 
 #### `“Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy."` *- Dale Carnegie*
@@ -9,9 +9,9 @@
 
 🌷 Texas, USA | World Wide Web 🌐
 
-🎨 Practicing Front + Back-End Engineering- & Game Development (2D Godot for fun!)
+🎨 Front + Back-End Engineering- & Game Development (2D Godot for fun!)
 
-💭  Currently studying: Linked Lists & Front-end [JS, HTML/CSS]
+💭  Currently practicing: Linked Lists & Front-end [JS, HTML/CSS]
 
 ### 📸 Presentations & Demos:
 [HamStudyBuddies](https://youtu.be/iEYWImDQo2g?si=3NPp7hYLXB5q2qxT)<br/>
